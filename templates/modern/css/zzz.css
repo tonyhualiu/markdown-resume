@@ -1,0 +1,13 @@
+/* Recommended by author to hack css since css files are concatenated
+ alphebatically */
+
+.resume {
+  dl {
+    dd {
+      p {
+        font-size: 15px;
+      }
+    }
+  }
+}
+

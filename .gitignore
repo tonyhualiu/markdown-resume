@@ -5,6 +5,7 @@ examples/output/*.pdf
 tony_resume/output/*.html
 tony_resume/output/*.pdf
 .tmp_pdf_source.html
+composer.phar
 
 # OSX files
 .DS_Store
